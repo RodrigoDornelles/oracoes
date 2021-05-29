@@ -10,7 +10,7 @@ _venha a nós nossa a vossa liberdade_
 
 _seja feito assim o vosso gnu_
 
-_assim no local, como no host
+_assim no local, como no host_
 
 _O código fonte de cada dia nos dai hoje_
 
